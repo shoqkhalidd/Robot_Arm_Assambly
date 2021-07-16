@@ -4,7 +4,7 @@
 
 this project was an assembly of smart methods [arm robot](https://github.com/smart-methods/arduino_robot_arm)
 
-## simulation
+## Simulation
 
 <img src="arm.png">
 
