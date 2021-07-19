@@ -1,4 +1,4 @@
-# Robot_Arm_Assambly
+# Robot_Arm_Assembly
 
 ## Discription
 
